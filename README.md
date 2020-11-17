@@ -2,7 +2,7 @@
 
 This code project is for the paper  **Convolutional Neural Network-based Diagnostic Model for Solid, Indeterminate Solitary Pulmonary Nodule or Mass on Computed Tomography**
 
-The best model weights parameters are stored in the **model_weights** folder.
+The best model weights parameters are stored in the [google drive](https://drive.google.com/file/d/1r5PGarprUIytP6b4EZXRvoKTxRnD-kHQ/view?usp=sharing).
 
 ## Authors:
 
